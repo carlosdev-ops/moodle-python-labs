@@ -1,0 +1,6 @@
+# Fichiers temporaires
+*.xlsx
+*.log
+__pycache__/
+*.pyc
+.env
